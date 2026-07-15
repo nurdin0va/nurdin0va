@@ -1,13 +1,17 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1500&color=58A6FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Aseda;Full-Stack+Developer" alt="Typing SVG" />
-</p>
+<pre>
+█   █  ███          ███  █  █   █       ██    ███  ████  ███    ██   
+█   █   █            █   █  ██ ██      █  █  █     █     █  █  █  █  
+█████   █            █      █ █ █      ████   ██   ███   █  █  ████  
+█   █   █    █       █      █   █      █  █     █  █     █  █  █  █  
+█   █  ███  █       ███     █   █      █  █  ███   ████  ███   █  █  
+</pre>
+
 <p align="left">
   <img src="./bio-matrix-background.gif" alt="About Me" width="100%" />
-<p align="left">
-I am a Full-Stack Developer with a passion for building modern, scalable, and reliable web applications. I work on both frontend and backend development, creating complete web solutions from user interfaces to server-side logic and APIs. I focus on writing clean, understandable, and maintainable code while paying attention to application quality, security, and performance. I enjoy solving complex problems, learning new technologies, and continuously improving my professional skills. My main goal is to build high-quality web solutions that bring real value to users and businesses through efficient, well-structured, and reliable software development. I also have experience with API integration and working with modern AI technologies (Gemini AI, Claude AI, and others), applying next-generation solutions to build smarter and more efficient applications.
 </p>
 
-<h3> Skills & Technologies</h3>
+<h3 align="center">🛠️ Skills & Technologies</h3>
+
 <table align="center">
   <tr>
     <td align="center" width="110">
@@ -71,8 +75,15 @@ I am a Full-Stack Developer with a passion for building modern, scalable, and re
   </tr>
 </table>
 
-<h3>Development Approach</h3>
+<h3 align="left">💡 Development Approach</h3>
 
 <p align="left">
 Clean Code • Component-Based Architecture • Responsive Design • Scalable Solutions • Performance Optimization • API Integration • Modern UI/UX
+</p>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nurdin0va&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdin0va&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top Languages" width="48%" />
 </p>
