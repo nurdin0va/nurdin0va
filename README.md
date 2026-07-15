@@ -72,7 +72,7 @@ I am a Full-Stack Developer with a passion for building modern, scalable, and re
   </tr>
 </table>
 
-<h3 align="left">💡 Development Approach</h3>
+<h3>Development Approach</h3>
 
 <p align="left">
 Clean Code • Component-Based Architecture • Responsive Design • Scalable Solutions • Performance Optimization • API Integration • Modern UI/UX
