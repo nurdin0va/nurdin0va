@@ -1,20 +1,16 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1500&color=58A6FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Aseda;Full-Stack+Developer" alt="Typing SVG" />
-</p>
-<p align="left">
-I am a Full-Stack Developer with a passion for building modern, scalable, and reliable web applications. I work on both frontend and backend development, creating complete web solutions from user interfaces to server-side logic and APIs.
-</p>
-<p align="left">
-I focus on writing clean, understandable, and maintainable code while paying attention to application quality, security, and performance. I enjoy solving complex problems, learning new technologies, and continuously improving my professional skills.
-</p>
-<p align="left">
-My main goal is to build high-quality web solutions that bring real value to users and businesses through efficient, well-structured, and reliable software development.
-</p>
-<p align="left">
-I also have experience with API integration and working with modern AI technologies (Gemini AI, Claude AI, and others), applying next-generation solutions to build smarter and more efficient applications.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:58A6FF&height=200&section=header&text=Aseda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=22" width="100%" alt="Header Banner" />
 </p>
 
-<h3 align=""> Skills & Technologies</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1500&color=58A6FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Aseda;Full-Stack+Developer" alt="Typing SVG" />
+</p>
+
+<p align="left">
+I am a Full-Stack Developer with a passion for building modern, scalable, and reliable web applications. I work on both frontend and backend development, creating complete web solutions from user interfaces to server-side logic and APIs. I focus on writing clean, understandable, and maintainable code while paying attention to application quality, security, and performance. I enjoy solving complex problems, learning new technologies, and continuously improving my professional skills. My main goal is to build high-quality web solutions that bring real value to users and businesses through efficient, well-structured, and reliable software development. I also have experience with API integration and working with modern AI technologies (Gemini AI, Claude AI, and others), applying next-generation solutions to build smarter and more efficient applications.
+</p>
+
+<h3 align="center">🛠️ Skills & Technologies</h3>
 
 <table align="center">
   <tr>
@@ -83,4 +79,11 @@ I also have experience with API integration and working with modern AI technolog
 
 <p align="left">
 Clean Code • Component-Based Architecture • Responsive Design • Scalable Solutions • Performance Optimization • API Integration • Modern UI/UX
+</p>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nurdin0va&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdin0va&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top Languages" width="48%" />
 </p>
