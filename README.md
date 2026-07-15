@@ -8,7 +8,6 @@ I am a Full-Stack Developer with a passion for building modern, scalable, and re
 </p>
 
 <h3> Skills & Technologies</h3>
-
 <table align="center">
   <tr>
     <td align="center" width="110">
@@ -38,7 +37,7 @@ I am a Full-Stack Developer with a passion for building modern, scalable, and re
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" /><br><sub><b>Redux</b></sub>
+      <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Zustand" height="28" /><br><sub><b>Zustand</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="RTK Query" /><br><sub><b>RTK Query</b></sub>
