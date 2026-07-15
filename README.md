@@ -14,7 +14,7 @@ My main goal is to build high-quality web solutions that bring real value to use
 I also have experience with API integration and working with modern AI technologies (Gemini AI, Claude AI, and others), applying next-generation solutions to build smarter and more efficient applications.
 </p>
 
-<h3 align="center">🛠️ Skills & Technologies</h3>
+<h3 align=""> Skills & Technologies</h3>
 
 <table align="center">
   <tr>
