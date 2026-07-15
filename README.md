@@ -1,13 +1,3 @@
-<pre>
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║▪   ▪   ▪▪▪             ▪▪▪   ▪   ▪   ▪         ▪▪     ▪▪▪   ▪▪▪▪   ▪▪▪     ▪▪    ║
-║▪   ▪    ▪               ▪    ▪   ▪▪ ▪▪        ▪  ▪   ▪      ▪      ▪  ▪   ▪  ▪   ║
-║▪▪▪▪▪    ▪               ▪        ▪ ▪ ▪        ▪▪▪▪    ▪▪    ▪▪▪    ▪  ▪   ▪▪▪▪   ║
-║▪   ▪    ▪     ▪         ▪        ▪   ▪        ▪  ▪      ▪   ▪      ▪  ▪   ▪  ▪   ║
-║▪   ▪   ▪▪▪   ▪         ▪▪▪       ▪   ▪        ▪  ▪   ▪▪▪    ▪▪▪▪   ▪▪▪    ▪  ▪   ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-</pre>
-
 <p align="left">
   <img src="./bio-matrix-background.gif" alt="About Me" width="100%" />
 </p>
@@ -83,6 +73,12 @@
 Clean Code • Component-Based Architecture • Responsive Design • Scalable Solutions • Performance Optimization • API Integration • Modern UI/UX
 </p>
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nurdin0va&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdin0va&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top Languages" width="48%" />
+</p>
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
