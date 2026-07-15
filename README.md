@@ -76,12 +76,3 @@ I am a Full-Stack Developer with a passion for building modern, scalable, and re
 <p align="left">
 Clean Code • Component-Based Architecture • Responsive Design • Scalable Solutions • Performance Optimization • API Integration • Modern UI/UX
 </p>
-
-
-sExpress                   PostgreS
-QLPostgreSQL               DockerDocker               GitGit               GitHubGitHub               ViteVite       
-        n
-pmnpm       Development ApproachCle
-an Code • Component-Based Architecture • Responsive Design • Scalable Solutions • Performance Optimization • API I
-ntegratio
-n • Modern UI/UX
