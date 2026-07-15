@@ -1,4 +1,8 @@
-
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1500&color=58A6FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Aseda;Full-Stack+Developer" alt="Typing SVG" />
+</p>
+<p align="left">
+  <img src="./bio-matrix-background.gif" alt="About Me" width="100%" />
 <p align="left">
 I am a Full-Stack Developer with a passion for building modern, scalable, and reliable web applications. I work on both frontend and backend development, creating complete web solutions from user interfaces to server-side logic and APIs. I focus on writing clean, understandable, and maintainable code while paying attention to application quality, security, and performance. I enjoy solving complex problems, learning new technologies, and continuously improving my professional skills. My main goal is to build high-quality web solutions that bring real value to users and businesses through efficient, well-structured, and reliable software development. I also have experience with API integration and working with modern AI technologies (Gemini AI, Claude AI, and others), applying next-generation solutions to build smarter and more efficient applications.
 </p>
